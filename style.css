@@ -7,6 +7,7 @@
     footer {
     background-color: rgb(46, 7, 219);
     }
+
     body {
     min-height: 1000vh;
     max-width: 1000px;
@@ -32,3 +33,4 @@ main {
     width: 960px;
     margin: 30px auto;
     min-height: 700px;
+}
