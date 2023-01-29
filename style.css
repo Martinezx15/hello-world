@@ -7,8 +7,6 @@ body {
         background-color: rgba(72, 25, 241, 0.63);
     }
     
-    footer {
-    background-color: rgb(46, 7, 219));
     
     }
  body {
@@ -33,16 +31,7 @@ img {
   width: 100%;
 }
 
-#hero {
-  width: 100%;
-}
 
-.lower {
-  max-width: 30%;
-  display: inline-block;
-  border: 3px solid green;
-  margin-right: 20px;
-}
 
 main {
   margin: 20px;
