@@ -26,6 +26,7 @@ nav li, nav a {
   list-style: none;
   text-decoration: none;
   display: block;
+  text-color: blue;  
 }
 
 img {
