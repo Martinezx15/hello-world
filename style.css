@@ -8,8 +8,7 @@ header {
 
 footer {
        background-color: rgba(72, 25, 241, 0.63);
-       font-size: 22px;
-       font-weight: 600;
+       font-size: 32px;
 }
 
 body {
@@ -27,7 +26,7 @@ h1 {
 h2 {
    text-align: center;
    color: blue;
-   text-shadow: 15px 15px 15px white;
+   text-shadow: none;
    font-size: 40px; 
 }
 
