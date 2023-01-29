@@ -23,12 +23,7 @@ nav li, nav a {
   list-style: none;
   text-decoration: none;
   display: block;
-  text-color: blue;  
-}
-
-img {
-  width: 100%;
-}
+  text-decoration-color: blue; 
 
 
 
@@ -49,4 +44,4 @@ footer{
     text-align:center;
     background-color: rgb(224, 206, 209);
     height: 100px;
-    text-color: solid yellow;
+   text-decoration-color: red;
