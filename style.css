@@ -1,24 +1,26 @@
- body {
-    background-color: rgb(14, 48, 7);
-    }
-    header {
-        background-color: rgba(72, 25, 241, 0.63);
-    }
-    footer {
-    background-color: rgb(46, 7, 219);
-    }
+body {
+     background-color: rgb(14, 48, 7);
+}
 
-    body {
-    min-height: 1000vh;
-    max-width: 1000px;
+header {
+       background-color: rgba(72, 25, 241, 0.63);
+}
+
+footer {
+       background-color: rgb(46, 7, 219);
+}
+
+body {
+     min-height: 1000vh;
+     max-width: 1000px;
 } 
 
-h1{
-    P { text-align: center }
-    margin-left: 20px;
-    margin-right: 50px;
-    color: blue;
-    text-shadow: 5px 5px 5px white;
+h1 {
+   P { text-align: center }
+   margin-left: 20px;
+   margin-right: 50px;
+   color: blue;
+   text-shadow: 5px 5px 5px white;
 }
 
 nav li a {
@@ -30,7 +32,7 @@ nav li a {
 }
 
 main {
-    width: 960px;
-    margin: 30px auto;
-    min-height: 700px;
+     width: 960px;
+     margin: 30px auto;
+     min-height: 700px;
 }
