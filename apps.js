@@ -17,10 +17,3 @@ function fishchoice() {
   } else {
     consoleChoice();
   }
-
-  for (let i = 0; i < number; i++) {
-    document.write("<img src='./surfacelaptop.jpg' width = '50%'></img>");
-    console.log(number);
-    console.log(i);
-  }
-}
