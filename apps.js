@@ -7,9 +7,9 @@ function myAlert()
 }
 alert("You must love Fishing to view this website");
 
-function consoleChoice() {
+function fishchoice() {
   let number = prompt(
-    "Pick a number depending on your preferred gaming console. 1 for PC, 2 for Xbox, 3 for Playstation, or 4 for none of the above";
+    "Pick a number depending on your preferred fish. 1 for sal water, 2 for fresh water, 3 for salmon, or 4 for none of the above";
   );
   console.log(number);
   if (number == 1 || number == 2 || number == 3) {
