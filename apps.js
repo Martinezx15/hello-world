@@ -1,12 +1,7 @@
-let username = prompt('What is your name?');
-console.log('Hello, ' + username);
-
-let age = '';
-
-while(age < 21) {
-    age = prompt('You must be 21 or older to enter'); 
+ let userName = prompt("Welcome to Fishing for fun! What is your name?");
+  console.log(userName);
+  document.write("Thank you for fishing with us today " + userName);
+  return userName;
 }
-
-
 
 
